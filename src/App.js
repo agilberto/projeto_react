@@ -28,7 +28,7 @@ function App() {
 
   return (
      <div className="container text-center">
-       <h1 className="py-5 text-uppercase">Github profile</h1>
+       <h1 className="py-5 text-uppercase">Antonio Gilberto - Github profile</h1>
        
        <form onSubmit={handleSubmit}>
 
