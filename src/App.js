@@ -1,7 +1,8 @@
-import logo from './logo.svg';
+
 import GithubImage from './git.png';
 import './App.css';
 import { useState } from 'react';
+
 
 function App() {
 
